@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🔭 Looking for a challenging and interesting <b>Full-Stack or Front-End position</b> with great colleagues<br>✨ Passionate about building amazing products that people love and use every day<br>👩🏻‍💻 Front-End course instructor at <b>she codes;</b> <br>👩🏻‍🎓 Graduated <b>Coding Academy intensive Fullstack Developer Bootcamp</b><br>❤️ I love work with people, learn new things, hike and spend time with my belovers<br><br>😎 My most recent project in <b>Vue</b>: <a href="https://higherr.onrender.com/#/">Higherr</a><br>🤩 My most recent project in <b>React</b>: <a href="https://etigame.github.io/Let-It-Bitcoin-New/#/">Let It Bitcoin</a><br>📄 Learn more about my experience - <a href="https://drive.google.com/file/d/1IRmnZK3__EPPcibVnebSRbj747np9zb4/view?usp=sharing">Eti Gal-Or Mendelovich CV</a><br>📫 You can reach me here - etim139@gmail.com</p>
+<p align="left">🔭 Looking for a challenging and interesting <b>Full-Stack or Front-End position</b> with great colleagues<br>✨ Passionate about building amazing products that people love and use every day<br>👩🏻‍💻 Front-End course instructor at <b>she codes;</b> <br>👩🏻‍🎓 Graduated <b>Coding Academy intensive Fullstack Developer Bootcamp</b><br>❤️ I love work with people, learn new things, hike and spend time with my belovers<br><br>😎 My most recent project in <b>Vue</b>: <a href="https://higherr.onrender.com/#/">Higherr</a><br>🤩 My most recent project in <b>React</b>: <a href="https://etigame.github.io/Let-It-Bitcoin-New/#/">Let It Bitcoin</a><br>📄 Learn more about my experience - <a href="https://drive.google.com/file/d/1IRmnZK3__EPPcibVnebSRbj747np9zb4/view?usp=sharing">Eti Gal-Or Mendelovich CV</a><br>📫 You can reach me here - <a href="mailto:etim139@gmail.com">etim139@gmail.com</a></p>
 
 ###
 
@@ -79,7 +79,7 @@
   <a href="https://www.linkedin.com/in/eti-gal-or-mendelovich" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="etim139@gmail.com" target="_blank">
+  <a href="mailto:etim139@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
